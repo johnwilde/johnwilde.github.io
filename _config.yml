@@ -1,10 +1,9 @@
 # Site settings
-title: Android Kotlin Guides
-email: your-email@domain.com
+title: John Wilde
+email: johnwilde@gmail.com
 description: >
-  Official guides for developing Kotlin on Android.
-baseurl: "/kotlin-guides"
-url: "https://android.github.io"
+  John Wilde's coding projects 
+url: "https://johnwilde.github.io"
 
 # Build settings
 markdown: kramdown
