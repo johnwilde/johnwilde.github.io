@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Pack
-site_nav_category_order: 202 
+site_nav_category_order: 302 
 ---
 # Pack
 The weekly group ride is something that most competitive cyclists participate in either occasionaly, or with fanatical regularity.  Living in San Francisco, I have the good fortune to be able to choose from a range of fun, fast and social weekly rides.  On Tue evenings during the summer months, there's TNPR (Tue Night Park Ride); every Tue and Thu morning there's the Palo Alto Morning Ride; on weekends there's the Roaster's ride in Marin and other rides in the East Bay. And there are many, many more here, and throughout the world.  These rides typically leave at a set time and place on a particular day of the week - and there is typically a Strava Segment that covers the interesting part of the ride.  For example: [Palo Alto Morning Ride](https://www.strava.com/segments/609552).

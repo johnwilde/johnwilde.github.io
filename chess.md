@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Chess Clock
-site_nav_category_order: 203 
+site_nav_category_order: 303 
 ---
 # Chess Timer
 
